@@ -82,7 +82,7 @@ Scheduled audits cover all four Anchor programs:
 ### 3.2 Audit Process
 
 1. Independent audit by a reputable Solana security firm before mainnet deploy.
-2. Public publication of audit report at `oraclum.fun/security/audits`.
+2. Public publication of audit report at `oraclumlabs.xyz/security/audits`.
 3. Re-audit triggered on any non-trivial program upgrade.
 4. Continuous fuzzing in CI on every PR touching program code.
 
@@ -125,7 +125,7 @@ Oraclum maintains a tiered bug bounty. Severity follows the Immunefi/OWASP class
 
 ### Submission Process
 
-1. Email **security@oraclum.fun** with a clear technical description and reproduction steps.
+1. Email **security@oraclumlabs.xyz** with a clear technical description and reproduction steps.
 2. Do **not** disclose publicly, open a GitHub issue, or post on X until the vulnerability is patched.
 3. Expect acknowledgement within 48 hours.
 4. Valid reports receive bounty payment in USDC or `$ORAC` (reporter's choice) after fix is deployed.
@@ -147,7 +147,7 @@ On confirmation of an active exploit:
 2. **Assess.** Determine scope, loss magnitude, and whether the insurance fund is required.
 3. **Patch.** Ship a fix, re-audit if non-trivial, and redeploy.
 4. **Restitute.** If user funds are lost, the 20% insurance fund allocation is drawn down to make affected holders whole, up to the fund balance.
-5. **Publish.** Post-mortem published within 7 days at `oraclum.fun/security/incidents`.
+5. **Publish.** Post-mortem published within 7 days at `oraclumlabs.xyz/security/incidents`.
 
 ---
 
@@ -170,8 +170,8 @@ We ask researchers to:
 
 ## 8. Contact
 
-Security issues: **security@oraclum.fun**
+Security issues: **security@oraclumlabs.xyz**
 
-All other inquiries: **hello@oraclum.fun**
+All other inquiries: **hello@oraclumlabs.xyz**
 
-PGP key fingerprint published at `oraclum.fun/security/pgp`.
+PGP key fingerprint published at `oraclumlabs.xyz/security/pgp`.
