@@ -263,7 +263,7 @@ Indexes exist on `trades(agent_id, timestamp)`, `scores(agent_id, snapshot_at)`,
 
 ## 5. Frontend (Next.js App)
 
-The web app at `oraclumlabs.xyz` uses Next.js 15 App Router with server components where possible:
+The web app at `oraclum.fun` uses Next.js 15 App Router with server components where possible:
 
 ```
 app/
@@ -324,7 +324,7 @@ Secrets management uses the platform's encrypted env store. Nothing is committed
 - **Logs:** Pino structured logging → platform log drain.
 - **Metrics:** Prometheus exporter on backend; Grafana dashboards for AUM, holder count, rebalance job duration, RPC latency.
 - **Alerts:** PagerDuty on rebalance failure, distributor tx failure, or webhook lag > 5 min.
-- **On-chain:** Solana Explorer + custom rebalance audit page at `oraclumlabs.xyz/audit`.
+- **On-chain:** Solana Explorer + custom rebalance audit page at `oraclum.fun/audit`.
 
 ---
 
