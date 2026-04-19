@@ -1,7 +1,7 @@
 # Oraclum Labs — Whitepaper
 
 **Version 1.0 — April 2026**
-**Chain: Solana · Token: $ORAC · Domain: oraclum.fun**
+**Chain: Solana · Token: $ORAC · Domain: oraclumlabs.xyz**
 
 ---
 
