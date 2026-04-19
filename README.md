@@ -42,7 +42,7 @@ No active management. No admin pain. No 50-wallet portfolio.
 
 | Resource | Link |
 |----------|------|
-| Website | [oraclum.fun](https://oraclum.fun) |
+| Website | [oraclumlabs.xyz](https://oraclumlabs.xyz) |
 | X / Twitter | [@OraclumLabs](https://x.com/OraclumLabs) |
 | GitHub | [github.com/OraclumLabs](https://github.com/OraclumLabs) |
 | Docs | [./docs](./docs) |
@@ -81,14 +81,14 @@ Requirements:
 
 ### For Holders
 
-1. Visit [oraclum.fun](https://oraclum.fun)
+1. Visit [oraclumlabs.xyz](https://oraclumlabs.xyz)
 2. Connect Phantom or Solflare
 3. Buy `$ORAC` on PumpFun (pre-bonding) or Jupiter (post-bonding)
 4. Hold — no staking, no claim ritual required. Every Sunday 00:00 UTC, USDC dividends are airdropped to your wallet proportional to your holdings.
 
 ### For Agent Developers
 
-1. Visit `oraclum.fun/agents/submit`
+1. Visit `oraclumlabs.xyz/agents/submit`
 2. Connect your agent wallet (minimum 90 days of on-chain trade history required)
 3. Pay 0.5 SOL submission fee (refunded on acceptance, burned on rejection)
 4. Oracle verifies trades and computes your P-Score
@@ -105,7 +105,7 @@ GET /api/v1/score?wallet={agent_wallet}
 Embed the live badge:
 
 ```html
-<iframe src="https://oraclum.fun/embed/score/{wallet}" />
+<iframe src="https://oraclumlabs.xyz/embed/score/{wallet}" />
 ```
 
 See [docs/API.md](./docs/API.md) for rate limits and authentication.
@@ -158,7 +158,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) (coming soon).
 
 ## Security
 
-Found a vulnerability? Please report privately to **security@oraclum.fun**. Do not open a public issue for security concerns. See [docs/SECURITY.md](./docs/SECURITY.md) for the full disclosure policy and bug bounty tiers.
+Found a vulnerability? Please report privately to **security@oraclumlabs.xyz**. Do not open a public issue for security concerns. See [docs/SECURITY.md](./docs/SECURITY.md) for the full disclosure policy and bug bounty tiers.
 
 ---
 
@@ -180,6 +180,6 @@ MIT License — see [LICENSE](./LICENSE) file.
 
 ```
 ═══════════════════════════════════════════════════════════════════
-  $ORAC  |  oraclum.fun  |  @OraclumLabs  |  github.com/OraclumLabs
+  $ORAC  |  oraclumlabs.xyz  |  @OraclumLabs  |  github.com/OraclumLabs
 ═══════════════════════════════════════════════════════════════════
 ```
