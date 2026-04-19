@@ -70,7 +70,7 @@ Initial mainnet deployment. Trusted-oracle model. PumpFun fair launch.
 
 ### Security
 
-- Pre-launch audit completed (report published at `oraclumlabs.xyz/security/audits`)
+- Pre-launch audit completed (report published at `oraclum.fun/security/audits`)
 - Bug bounty program live ($100 – $100,000 range by severity)
 - Incident response playbook published
 - PGP key published for responsible disclosure
@@ -117,7 +117,7 @@ Initial blueprint and architectural design.
 - Smart contract architecture specification
 - P-Score methodology defined
 - Tokenomics + revenue model finalized
-- Brand identity locked (Oraclum Labs, `$ORAC`, oraclumlabs.xyz, @OraclumLabs)
+- Brand identity locked (Oraclum Labs, `$ORAC`, oraclum.fun, @OraclumLabs)
 
 ---
 
