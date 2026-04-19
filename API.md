@@ -1,6 +1,6 @@
 # Oraclum Labs — REST API Reference
 
-Base URL: `https://oraclum.fun/api`
+Base URL: `https://oraclumlabs.xyz/api`
 
 All endpoints return JSON. Authenticated endpoints require a Bearer API key in the `Authorization` header. Rate limits are enforced per API key (or per IP for unauthenticated calls).
 
@@ -14,7 +14,7 @@ All endpoints return JSON. Authenticated endpoints require a Bearer API key in t
 | Pro | Unlimited | $499 | Full breakdown, historical data, webhooks |
 | Enterprise | Unlimited | $2,499 | White-label, SLA, custom badges |
 
-Request an API key at `oraclum.fun/api`.
+Request an API key at `oraclumlabs.xyz/api`.
 
 ---
 
@@ -104,7 +104,7 @@ Score lookup for any wallet. Useful for B2B integrations embedding badges.
   "tier_stars": 3,
   "last_updated": "2026-04-14T00:00:00Z",
   "in_basket": true,
-  "badge_url": "https://oraclum.fun/badge/7x..."
+  "badge_url": "https://oraclumlabs.xyz/badge/7x..."
 }
 ```
 
@@ -321,7 +321,7 @@ All errors follow a consistent shape:
   "error": {
     "code": "RATE_LIMIT_EXCEEDED",
     "message": "You have exceeded 100 requests/day on the Free tier.",
-    "docs_url": "https://oraclum.fun/docs/api#rate-limits"
+    "docs_url": "https://oraclumlabs.xyz/docs/api#rate-limits"
   }
 }
 ```
